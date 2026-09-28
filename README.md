@@ -7,7 +7,7 @@
 [![Groq AI](https://img.shields.io/badge/Groq-LLaMA3-orange?style=for-the-badge)](https://groq.com)
 
 Built for **Road Safety Hackathon 2026** — CoERS, RBG Labs, IIT Madras  
-Topic: **DriveLegal** | Team: **DriveLegal TN** | By: **Prathap S**
+Topic: **DriveLegal** | Team: **DriveLegal TN** | By: **Paramasivan**
 
 ---
 
