@@ -1,0 +1,21 @@
+{
+  "name": "DriveLegal Tamil Nadu",
+  "short_name": "DriveLegal TN",
+  "description": "The official AI-powered portal for all traffic regulations across Tamil Nadu.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#042f2e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

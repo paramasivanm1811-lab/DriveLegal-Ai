@@ -1,0 +1,200 @@
+[
+  {
+    "id": "tn-1",
+    "tier": "state",
+    "district": "All",
+    "title": "No Helmet (Rider & Pillion)",
+    "desc": "Riding a two-wheeler without a protective ISI mark helmet for both the rider and pillion passenger.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹1000",
+    "vehicleType": "2-Wheeler",
+    "category": "General"
+  },
+  {
+    "id": "tn-2",
+    "tier": "state",
+    "district": "All",
+    "title": "Drunk Driving",
+    "desc": "Driving under the influence of alcohol (BAC > 30mg/100ml of blood). Offender must appear in court.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹10,000 + License Suspension",
+    "vehicleType": "All",
+    "category": "General"
+  },
+  {
+    "id": "tn-3",
+    "tier": "local",
+    "district": "Chennai",
+    "title": "Red Light Violation - Chennai Zone",
+    "desc": "Jumping a red traffic signal within Greater Chennai limits captured by ANPR cameras.",
+    "authority": "Greater Chennai Traffic Police",
+    "penalty": "₹500",
+    "vehicleType": "All",
+    "category": "City"
+  },
+  {
+    "id": "tn-4",
+    "tier": "local",
+    "district": "Coimbatore",
+    "title": "Heavy Vehicle City Entry Restrictions",
+    "desc": "Heavy commercial vehicles entering city limits during peak hours (8 AM - 11 AM & 4 PM - 8 PM).",
+    "authority": "Coimbatore City Traffic Police",
+    "penalty": "₹2000",
+    "vehicleType": "Lorry",
+    "category": "City"
+  },
+  {
+    "id": "tn-5",
+    "tier": "state",
+    "district": "All",
+    "title": "Triple Riding",
+    "desc": "More than two persons riding on a two-wheeler.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹1000",
+    "vehicleType": "2-Wheeler",
+    "category": "General"
+  },
+  {
+    "id": "tn-6",
+    "tier": "state",
+    "district": "All",
+    "title": "No PUC Certificate",
+    "desc": "Driving without a valid Pollution Under Control certificate. Vehicle can be seized if emitting excessive smoke.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹10000",
+    "vehicleType": "All",
+    "category": "General"
+  },
+  {
+    "id": "tn-7",
+    "tier": "state",
+    "district": "All",
+    "title": "Using Mobile Phone while Driving",
+    "desc": "Talking, texting, or watching videos on a mobile phone while operating a vehicle.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹1000 - ₹5000",
+    "vehicleType": "All",
+    "category": "General"
+  },
+  {
+    "id": "tn-8",
+    "tier": "state",
+    "district": "All",
+    "title": "No Seatbelt",
+    "desc": "Driver or front-seat passenger not wearing a seatbelt.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹1000",
+    "vehicleType": "4-Wheeler",
+    "category": "General"
+  },
+  {
+    "id": "tn-9",
+    "tier": "state",
+    "district": "All",
+    "title": "Driving Without Insurance",
+    "desc": "Operating a motor vehicle on public roads without valid third-party insurance.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹2000",
+    "vehicleType": "All",
+    "category": "General"
+  },
+  {
+    "id": "tn-10",
+    "tier": "state",
+    "district": "All",
+    "title": "Driving Without License",
+    "desc": "Operating a motor vehicle without a valid driving license or with an expired license.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹5000",
+    "vehicleType": "All",
+    "category": "General"
+  },
+  {
+    "id": "tn-11",
+    "tier": "local",
+    "district": "Chennai",
+    "title": "Auto Rickshaw - Refusal to Ply / No Meter",
+    "desc": "Refusing to take passengers to a destination or refusing to use the digital fare meter.",
+    "authority": "Greater Chennai Traffic Police",
+    "penalty": "₹500",
+    "vehicleType": "Auto",
+    "category": "City"
+  },
+  {
+    "id": "tn-12",
+    "tier": "state",
+    "district": "All",
+    "title": "Over Speeding (Light Motor Vehicle)",
+    "desc": "Driving a car above the prescribed speed limit on highways or city roads.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹1000 - ₹2000",
+    "vehicleType": "4-Wheeler",
+    "category": "Highway"
+  },
+  {
+    "id": "tn-13",
+    "tier": "local",
+    "district": "Madurai",
+    "title": "No Parking Violation",
+    "desc": "Parking in a 'No Parking' zone around the Meenakshi Temple and central market areas. Vehicle may be towed.",
+    "authority": "Madurai Traffic Police",
+    "penalty": "₹500 + Towing Charges",
+    "vehicleType": "All",
+    "category": "City"
+  },
+  {
+    "id": "tn-14",
+    "tier": "state",
+    "district": "All",
+    "title": "Dangerous / Rash Driving",
+    "desc": "Driving in a manner that poses a threat to the public, including racing and weaving through traffic.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹1000 - ₹5000",
+    "vehicleType": "All",
+    "category": "General"
+  },
+  {
+    "id": "tn-15",
+    "tier": "local",
+    "district": "Tiruchirappalli",
+    "title": "Wrong Way Driving on One-Way",
+    "desc": "Driving against the designated flow of traffic on a one-way street.",
+    "authority": "Trichy City Police",
+    "penalty": "₹500 - ₹1000",
+    "vehicleType": "All",
+    "category": "City"
+  },
+  {
+    "id": "tn-16",
+    "tier": "state",
+    "district": "All",
+    "title": "Defective Number Plate",
+    "desc": "Displaying a number plate that is not HSRP, illegible, or has unauthorized names/graphics.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹500",
+    "vehicleType": "All",
+    "category": "General"
+  },
+  {
+    "id": "tn-17",
+    "tier": "state",
+    "district": "All",
+    "title": "Overloading (Goods Vehicle)",
+    "desc": "Carrying load exceeding the permissible gross vehicle weight limit.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹20,000 + ₹2,000 per extra tonne",
+    "vehicleType": "Lorry",
+    "category": "Highway"
+  },
+  {
+    "id": "tn-18",
+    "tier": "state",
+    "district": "All",
+    "title": "School Bus Safety Violation",
+    "desc": "School bus operating without speed governor, attendant, or missing 'School Bus' markings.",
+    "authority": "TN Transport Dept.",
+    "penalty": "₹10,000 + Permit Cancellation",
+    "vehicleType": "Bus",
+    "category": "General"
+  }
+]
